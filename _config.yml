@@ -9,4 +9,4 @@ github_username:  jmisener9029
 
 show_excerpts: false # set to false to remove excerpts on the homepage
 
-theme: minima
+theme: jekyll-theme-minimal
